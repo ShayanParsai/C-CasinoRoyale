@@ -1,0 +1,14 @@
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\net6.0\CasinoRoyale.exe
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\net6.0\CasinoRoyale.deps.json
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\net6.0\CasinoRoyale.runtimeconfig.json
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\net6.0\CasinoRoyale.dll
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\bin\Debug\net6.0\CasinoRoyale.pdb
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.AssemblyInfoInputs.cache
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.AssemblyInfo.cs
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.csproj.CoreCompileInputs.cache
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.dll
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\refint\CasinoRoyale.dll
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.pdb
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\CasinoRoyale.genruntimeconfig.cache
+C:\Users\Chalamdor\source\repos\CasinoRoyale\CasinoRoyale\obj\Debug\net6.0\ref\CasinoRoyale.dll
